@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-🔭 I’m currently working on AI Retrieval-Augmented Generation (RAG) models and full-stack web applications.<br>👯 I’m looking to collaborate on AI projects, open-source tools, and web apps that integrate machine learning.<br>🤝 I’m looking for help with fine-tuning language models, optimizing RAG pipelines, and deploying scalable AI-backed systems.<br>🌱 I’m currently learning Minecraft (MCP) server development, vector databases, and advanced AI model integration.<br>💬 Ask me about full-stack development, Next.js, REST APIs, RAG workflows, and AI-powered tools.<br><br>
+🔭 I’m currently working on AI Retrieval-Augmented Generation (RAG) models and full-stack web applications.<br>👯 I’m looking to collaborate on AI projects, open-source tools, and web apps that integrate machine learning.<br>🤝 I’m looking for help with fine-tuning language models, optimizing RAG pipelines, and deploying scalable AI-backed systems.<br>🌱 I’m currently learning (MCP) server development, vector databases, and advanced AI model integration.<br>💬 Ask me about full-stack development, Next.js, REST APIs, RAG workflows, and AI-powered tools.<br><br>
 
 
 ## 🌐 Socials:
